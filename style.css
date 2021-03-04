@@ -92,6 +92,9 @@ table {
 
 th, td {
     border: 2px solid rgb(255, 57, 57);
+    font-size: 90%;
+    font-weight: 0;
+    padding: 3px;
     text-align: center;
     color: #fff;
 }
