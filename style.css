@@ -5,7 +5,7 @@
     padding: 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    width: 600px;
+    width: auto;
 }
 
 html,
@@ -85,6 +85,7 @@ h6 {
     color: #fff;
     line-height: 145%; 
     margin-left: 15px;
+    margin-right: 10px;
     margin-bottom: 20px;
     font-size: 60%; 
 
